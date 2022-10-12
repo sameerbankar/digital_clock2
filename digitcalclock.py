@@ -5,4 +5,6 @@ window = Tk()
 window.title("Digital Clock")
 window.geometry("600x300")
 
+window.configure(bg = "red")
+
 window.mainloop()
